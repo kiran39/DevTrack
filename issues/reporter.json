@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Kiran Gundra",
+    "email": "kiran.gundra@example.com",
+    "team": "Backend"
+  },
+  {
+    "id": 2,
+    "name": "Pratyusha",
+    "email": "priya.m@example.com",
+    "team": "Frontend"
+  },
+  {
+    "id": 3,
+    "name": "Ramesh",
+    "email": "ramesh.d@example.com",
+    "team": "DevOps"
+  },
+  {
+    "id": 4,
+    "name": "Mohan",
+    "email": "mohan.k@example.com",
+    "team": "QA"
+  },
+  {
+    "id": 5,
+    "name": "Kamesh",
+    "email": "kamesh.a@example.com",
+    "team": "Security"
+  },
+  {
+    "id": 6,
+    "name": "Mouli",
+    "email": "mouli.g@example.com",
+    "team": "DevOps"
+  }
+]
