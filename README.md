@@ -28,7 +28,7 @@ Body: {"id": 101, "title": "Fix bug", "description": "...", "status": "open", "p
 Setup Instructions
 Clone the repository:
 
-git clone <repository-url>
+git clone https://github.com/kiran39/DevTrack.git
 cd devtrack
 Set up Virtual Environment:
 
